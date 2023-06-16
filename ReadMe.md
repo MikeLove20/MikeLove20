@@ -1,5 +1,6 @@
 # 💫 About Me:
-Sou estudante de Backend .<br>estou a procura de estagio.<br><br>        }Reflexão{<br><br>( " a vida é um equilibrio entre não ter,pressa  <br>     e não perde tempo " )<br>
+Sou estudante de Backend .<br>estou a procura de estagio.<br><br>        }Reflexão{<br><br>( " a vida é um equilibrio entre não ter
+pressa  <br>     e não perde tempo " )<br>
 
 
 ## 🌐 Socials:
